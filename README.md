@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**priyankabasa/PriyankaBasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Currently Working On
+- SafePath Project – secure routing and modern frontend development.
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Next.js  
+- Tailwind CSS  
+- Advanced UI design and component systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
+![Android](https://img.shields.io/badge/Android_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+### 💡 Skills
+- Frontend Development (Next.js, React, Tailwind CSS)  
+- Android App Development  
+- Java Programming  
+- UI/UX Design (Figma)    
+- Version control with Git & GitHub  
+
+### 📚 Interests
+- Modern frontend frameworks    
+- Mobile app development  
+- Secure and scalable applications  
+
+
+### 📫 How to Reach Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
