@@ -1,4 +1,4 @@
-## Hi there 👋  
+## Hi there
 
 ### 🚀 Currently Working On
 - SafePath Project – secure routing and modern frontend development.
@@ -30,5 +30,5 @@
 
 
 ### 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
 
